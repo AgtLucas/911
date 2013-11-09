@@ -1,6 +1,18 @@
-WTF?
+Topicos.
 
-Tu ta com o microfone no mute!
+Virtual Box com Vagrant.
 
+Chocolatey
 
-Ok, podes deixar tarefa de casa, e encerrar por aqui? 
+Node.js
+
+Angular.js
+
+Grunt
+
+Links: 
+
+http://angular-ui.github.io/
+http://zofe.com.br/posts/voce-testa-se-o-teste-do-codigo-testado-testavel/
+https://github.com/rwaldron/idiomatic.js
+
