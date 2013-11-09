@@ -2,13 +2,13 @@
 
 [Virtual Box com Vagrant](http://www.vagrantup.com/)
 
-Chocolatey
+[Chocolatey](http://chocolatey.org/)
 
-Node.js
+[Node.js](http://nodejs.org)
 
-Angular.js
+[Angular.js](http://angularjs.org)
 
-Grunt
+[GruntJS](http://gruntjs.com/)
 
 Links: 
 
