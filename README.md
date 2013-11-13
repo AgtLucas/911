@@ -6,3 +6,5 @@
 * Golf Delta Golf
 * Travis CI
 * Trello
+* Capistrano
+* rsync
