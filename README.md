@@ -9,3 +9,7 @@
 * Capistrano
 * rsync
 * Open Source
+* JS
+* Angular
+* MongoDB
+* PerfMatter
