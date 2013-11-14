@@ -5,8 +5,11 @@
 * GitHub Pages
 * Travis CI
 * Trello
-* Capistrano
-* rsync
+* Deploys
+  * Capistrano
+  * rsync
+  * GitHub Hooks
+  * SSH
 * Open Source
 * JS
 * Angular
