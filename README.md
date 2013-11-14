@@ -13,3 +13,4 @@
 * Angular
 * MongoDB
 * PerfMatter
+* Source Maps + Chrome Workspace
