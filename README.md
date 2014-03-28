@@ -12,7 +12,8 @@
   * SSH
 * Open Source
 * JS
-* Angular
+* AngularJS
+* JQuery
 * MongoDB
 * PerfMatter
 * Source Maps + Chrome Workspace
